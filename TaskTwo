@@ -1,10 +1,10 @@
-"Tess Løvgreen";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
-365;
-"København";
-true;
-60*24;
-22.12
-"Hej, jeg heddder "+teachername;
-false;
-2.2 + 33;
-'S';
+String teacherName= "Tess Løvgreen";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
+int days = 365;
+String city = "København";
+boolean capital = true;
+int klokkeslæt = 60*24;
+float date = 22.12;
+String teachersName = "Hej, jeg hedder "+teachername;
+boolean name = false;
+float  = 2.2 + 33;
+
